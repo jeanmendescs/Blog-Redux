@@ -16,7 +16,6 @@
 - [Tecnologias](#tecnologias)
 - [Instalação](#instalação)
 - [Status](#status)
-- [Contribuição](#contribuição)
 - [Contato](#contato)
 
 <!--te-->
