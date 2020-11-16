@@ -11,7 +11,6 @@
 - [Blog](#blog)
 - [Tabela de conteúdos](#tabela-de-conteúdos)
 - [Descrição](#descrição)
-- [Projeto Online](#projeto-online)
 - [Screenshot](#screenshot)
 - [Tecnologias](#tecnologias)
 - [Instalação](#instalação)
